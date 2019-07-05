@@ -18,4 +18,10 @@ Then
     tar -xzvf corrupt_result.tar.g
     tar -xzvf simulate.tar.gz
     
+Install SCALE from github:
+
+    git clone git://github.com/jsxlei/SCALE.git
+    cd SCALE
+    python setup.py install
+    
 Repeat the figures in the manuscript through the notebook. 
