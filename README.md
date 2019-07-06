@@ -10,7 +10,7 @@ Download following data under Source_Data dir:
 * **corrupt_result** [[Download]](https://cloud.tsinghua.edu.cn/f/ce107f2792a14b6b9494/?dl=1)  
 * **simulate** [[Download]](https://cloud.tsinghua.edu.cn/f/e337aa1171e1491c95ea/?dl=1)
 
-Then Decompression the gz file by tar -xzvf
+Decompression the gz file by tar -xzvf
 
     tar -xzvf data.tar.gz
     tar -xzvf result.tar.gz
