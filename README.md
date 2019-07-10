@@ -15,7 +15,7 @@ Decompression the gz file by tar -xzvf
     tar -xzvf data.tar.gz
     tar -xzvf result.tar.gz
     tar -xzvf corrupt_data.tar.gz
-    tar -xzvf corrupt_result.tar.g
+    tar -xzvf corrupt_result.tar.gz
     tar -xzvf simulate.tar.gz
     
 Install SCALE from github:
